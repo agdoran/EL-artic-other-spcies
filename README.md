@@ -11,4 +11,5 @@ is welcome, in which case it would be better to go to the
 original repository on the EPI2ME Labs pages.
 
 
-
+The notebook need to be run from within the EPI2ME Labs 
+environment otherwise you will run in to errors
