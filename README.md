@@ -1,4 +1,4 @@
-# EL-artic-other-spcies
+# EL-artic-other-species
 modification of the EPI2ME Labs (https://labs.epi2me.io/)
 artic workflow for SARS-CoV-2 to enable the analysis of other
 species. This is not a complete project and you will likely
